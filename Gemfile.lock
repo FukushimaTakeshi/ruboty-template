@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/FukushimaTakeshi/ruboty-time_clock.git
-  revision: 38a07f5ed7418e5ef636f82d25b5472f627e8786
+  revision: 30fdde934759c14409c9cfbf5908f81540b20f5b
   specs:
-    ruboty-time_clock (0.2.0)
+    ruboty-time_clock (0.2.1)
       capybara
       holiday_jp
       poltergeist
